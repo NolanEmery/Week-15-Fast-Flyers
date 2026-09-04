@@ -25,4 +25,5 @@ No changes necessary.
 
 Expand It:
 
+How did you add design guardrails like templates, font limits, palettes, or alignment helpers?
 Have user created templates. Include at least three. Users can use publicly available templates.
